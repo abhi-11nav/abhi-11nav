@@ -18,4 +18,4 @@ Here are some ideas to get you started:
                    
 
 ### I WORK WITH 
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+<div class="library_badge" <a href="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a></div>
