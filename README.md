@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SIMA FROM MUMABI
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
