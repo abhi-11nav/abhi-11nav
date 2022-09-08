@@ -11,10 +11,10 @@ I am computer science major with intrests in the field of Aritifcial intelligenc
 
 SKILLS :
 Programming Languages: Python , Java <br>
-Machine Learning : Pandas, Numpy, Tensorflow, Keras, Sklearn, Matplotlib, Seaborn, Scipy, Natural Language Processing
-Deployment : Flask, Heroku, AWS EC2 instance,
-Design: Html, CSS
-Database : MongoDB, PostgreSQL
+Machine Learning : Pandas, Numpy, Tensorflow, Keras, Sklearn, Matplotlib, Seaborn, Scipy, Natural Language Processing <br>
+Deployment : Flask, Heroku, AWS EC2 instance <br>
+Design: Html, CSS <br>
+Database : MongoDB, PostgreSQL <br>
 
 
 
