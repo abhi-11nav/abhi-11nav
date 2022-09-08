@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 ## ABOUT 
 I am Abhinav Reddy Mandli, a computer science major with intrests in the field of Aritifcial intelligence.
