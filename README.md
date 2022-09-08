@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ABOUT 
-I am Abhinav Reddy Mandli, a computer science major with intrests in the field of Aritifcial intelligence. I love
+I am Abhinav Reddy Mandli, a computer science major with intrests in the field of Aritifcial intelligence.
 
 <!--
 **abhi-11nav/abhi-11nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
