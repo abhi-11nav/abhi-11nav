@@ -12,7 +12,7 @@ I am Abhinav Reddy Mandli, a computer science major with intrests in the field o
                    
 ### I WORK WITH :<br>
 Programming Languages: Python , Java <br>
-Machine Learning : Pandas, Numpy, Tensorflow, Keras, Sklearn, Matplotlib, Seaborn, Scipy, Natural Language Processing <br>
+Machine Learning : Pandas, Numpy, Tensorflow, Keras, Sklearn, Matplotlib, Seaborn, Scipy, Natural Language Processing (nltk)<br>
 Deployment : Flask, Heroku, AWS EC2 instance <br>
 Design: Html, CSS <br>
 Database : MongoDB, PostgreSQL <br>
