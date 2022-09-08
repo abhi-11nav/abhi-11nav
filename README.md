@@ -1,7 +1,7 @@
 ### Hello  👋
 
 ## ABOUT 
-I am Abhinav Reddy Mandli, a computer science major with interests in the field of Aritifcial intelligence. I love to work on machine learning and deep learning started out on NLP. 
+I am Abhinav Reddy Mandli, a computer science major with interests in the field of Aritifcial intelligence. I love to work on machine learning, deep learning and just started out on NLP. 
 
 <!--
 **abhi-11nav/abhi-11nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
