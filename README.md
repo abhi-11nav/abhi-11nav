@@ -10,7 +10,7 @@
 I am computer science major with intrests in the field of Aritifcial intelligence.
 
 SKILLS :
-Programming Languages: Python , Java
+Programming Languages: Python , Java <br>
 Machine Learning : Pandas, Numpy, Tensorflow, Keras, Sklearn, Matplotlib, Seaborn, Scipy, Natural Language Processing
 Deployment : Flask, Heroku, AWS EC2 instance,
 Design: Html, CSS
