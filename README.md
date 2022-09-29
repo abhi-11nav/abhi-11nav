@@ -1,4 +1,4 @@
-### Hello  👋
+### Heyy (Namaste for my indian dost)  👋
 
 ## ABOUT 
 I am Abhinav Reddy Mandli, a computer science major with interests in the field of Aritifcial intelligence. I love to work on machine learning, deep learning and recently began working on Natural Language processing. 
