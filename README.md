@@ -20,4 +20,4 @@ Database : MongoDB, PostgreSQL <br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-<center> ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) </center>
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) 
