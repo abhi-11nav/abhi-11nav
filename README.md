@@ -1,4 +1,4 @@
-### Heyyyy 👋
+## Heyyyy 👋
 
 # ABOUT 
 I am Abhinav, a computer science major in Canada with interests in the field of Aritifcial intelligence. I actively work on machine learning, deep learning, Natural language processing and am exploring other fields of AI.  
