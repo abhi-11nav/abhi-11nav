@@ -22,3 +22,5 @@ Database : MongoDB, PostgreSQL <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
