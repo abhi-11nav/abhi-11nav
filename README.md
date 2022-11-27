@@ -23,4 +23,4 @@ Database : MongoDB, PostgreSQL <br>
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tech-Knight-Danny&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhi-11nav&theme=tokyonight&background=000000)](https://git.io/streak-stats)
