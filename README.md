@@ -13,10 +13,11 @@ I am Abhinav, a computer science major in Canada with interests in the field of 
 # I WORK WITH :<br>
 Programming Languages: Python, Java, R <br>
 Machine Learning : Tensorflow, Keras, Pandas, Numpy, Sklearn, Scipy, Convolution neural networks, NLP <br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <br>
 Statistics: SAS (Basic Proficiency), Hypothesis testing, Data visualization through Matplotlib and Seaborn <br> 
 Cloud / Deployment: Flask, Heroku, AWS EC2 instance, Dockers <br>
 Database : MySQL, MongoDB, PostgreSQL<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <br>
+
 
 # CERTIFICAITONS: <br>
  1. Deep Learning by Deeplearning.AI <br>
