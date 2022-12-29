@@ -28,6 +28,5 @@ Database : MySQL, MongoDB, PostgreSQL<br>
  4. PostgreSQL - Jose Portilla (Udemy) <br>
 
 <br>
-
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) 
 <br>
