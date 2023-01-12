@@ -29,5 +29,4 @@ Database : MySQL, MongoDB, PostgreSQL<br>
 
 <br>
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhi-11nav&theme=tokyonight&show_icons=true) 
 <br>
