@@ -20,7 +20,7 @@ Database : MySQL, MongoDB, PostgreSQL<br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <br>
 
-#EXPERIENCE: <br>
+# EXPERIENCE: <br>
 
 1. Undergraduate Research Assistant - SMART lab at Dalhousie university (November 2022 - Present)
 
