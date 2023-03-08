@@ -1,7 +1,7 @@
 ## Heyyyy 👋
 
 # ABOUT 
-I am Abhinav, a computer science major from Dalhousie university, Canada with interests in the field of Aritifcial intelligence. I actively work on machine learning, deep learning, Natural language processing and am exploring other fields of AI.  
+I am Abhinav, a computer science major from Dalhousie university, Canada with interests in the field of Aritifcial intelligence. I actively work on deep learning, Natural language processing and am exploring other fields of AI.
 
 <!--
 **abhi-11nav/abhi-11nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
