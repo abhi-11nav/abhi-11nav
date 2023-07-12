@@ -18,8 +18,6 @@ Cloud / Deployment: Flask, Heroku, AWS EC2 instance, Dockers <br>
 Database : MySQL, MongoDB, PostgreSQL<br>
 <br>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <br>
-
 # EXPERIENCE: <br>
 
 1. Undergraduate Research Assistant - SMART lab at Dalhousie university (November 2022 - Present)
