@@ -20,8 +20,8 @@ Database : MySQL, MongoDB, PostgreSQL<br>
 
 # EXPERIENCE: <br>
 
-1. Junior Machine Learning Engineer - ReelData AI, NS, Canada (May 2023 - Present)
-2. Undergraduate Research Assistant - SMART lab, Dalhousie university (November 2022 - Present)
+1. Junior Machine Learning Engineer - ReelData AI, NS, Canada (May 2023 - Dec 2023)
+2. Undergraduate Research Assistant - SMART lab, Dalhousie university (November 2022 - November 2023)
 
 
 # CERTIFICAITONS: <br>
